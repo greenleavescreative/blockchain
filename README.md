@@ -1,3 +1,3 @@
-# blockchain
+# Blockchain
 
 INFERNO TOKEN (INFR)
